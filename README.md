@@ -1,3 +1,3 @@
-# first arduino project with sensors
+# arduino projects with sensors
 #
 :seedling:
